@@ -69,7 +69,8 @@
             CARD_13: "1 Schritt auf der Industrieleiste",
             CARD_14: "2 Schritte auf der Industrieleiste",
             CARD_15: "Nimm einen x2 Marker",
-            CARD_16: "Nimm eine Kohle"
+            CARD_16: "Nimm eine Kohle",
+            CARD_17: "Die Werklok"
         });
 
         $translateProvider.translations('en', {
@@ -121,7 +122,8 @@
             CARD_13: "1 move on industry track",
             CARD_14: "2 moves on industry track",
             CARD_15: "Take a 2x double marker",
-            CARD_16: "Take a coal"
+            CARD_16: "Take a coal",
+            CARD_17: "Manufactory Train"
         });
 
         $translateProvider.registerAvailableLanguageKeys(['en', 'de'], {
